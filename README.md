@@ -1,2 +1,3 @@
 # Drum-Kit
 This is a simple web application called "Drum Kit" that allows users to play different drum sounds by clicking on buttons or pressing corresponding keyboard keys. The application is built using HTML, CSS, and JavaScript, specifically utilizing the Document Object Model (DOM) to manipulate the webpage and add event listeners to the buttons.
+The HTML file contains a header, a set of buttons representing the drum kit, and a footer. The CSS file styles the webpage, while the JavaScript file defines the functionality of the drum kit, using a switch statement to determine which sound should play depending on the button that was clicked.
